@@ -1,0 +1,55 @@
+html{
+  font-size:62.5%;
+}
+body{
+  text-align:center;
+}
+body img{
+  width:50%;
+  display: block;
+  margin:0 auto;
+  border-radius: 3px;
+}
+h1{
+  font-variant:small-caps;
+}
+ul{
+  display:flex;
+  list-style:none;
+  margin-right:5%;
+}
+ul li{
+  width:100px;
+  height:50px;
+  border:1px solid white;
+  flex:1;
+  margin-left:4%;
+  
+}
+#red{
+  background:red;
+}
+#orange{
+  background: orange;
+}
+#yellow{
+  background:yellow;
+}
+#green{
+  background:green;
+}
+#blue{
+  background:blue;
+}
+#indigo{
+  background:indigo;
+}
+button{
+  background:black;
+  color: white;
+  font-variant:small-caps;
+  padding:4% 8%;
+  margin:2% auto;
+  font-size:2rem;
+  margin-right:-6%;
+}
